@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b52d3a-e2c7-4324-b52d-cde1901274df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-in/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/[type]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ActionDropdown.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ActionsModalContent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Chart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FormattedDateTime.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MobileNavigation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/OTPModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sort.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Thumbnail.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/file.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/user.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/appwrite/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/appwrite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MobileNavigation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MobileNavigation.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,26 +26,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/luciano/Sites/vault&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;/Users/luciano/Sites/vault/node_modules/eslint&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/luciano/Sites/vault/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/luciano/Sites/vault/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "/Users/luciano/Sites/vault",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "/Users/luciano/Sites/vault/node_modules/eslint",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/luciano/Sites/vault/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/luciano/Sites/vault/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/types" />
@@ -119,7 +79,7 @@
       <workItem from="1735552444671" duration="878000" />
       <workItem from="1735553523379" duration="11535000" />
       <workItem from="1735637935827" duration="10842000" />
-      <workItem from="1735895024456" duration="11164000" />
+      <workItem from="1735895024456" duration="11561000" />
     </task>
     <servers />
   </component>
